@@ -1,3 +1,6 @@
 [submodule "fh-software-testing"]
 	path = fh-software-testing
 	url = https://github.com/FlorianMold/fh-software-testing
+[submodule "fh-microservice"]
+	path = fh-microservice
+	url = https://github.com/FlorianMold/fh-microservice
