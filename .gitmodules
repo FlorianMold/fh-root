@@ -7,3 +7,6 @@
 [submodule "fh-fp"]
 	path = fh-fp
 	url = https://github.com/FlorianMold/fh-fp
+[submodule "fh-architecture"]
+	path = fh-architecture
+	url = https://github.com/FlorianMold/fh-architecture
