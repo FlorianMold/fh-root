@@ -10,3 +10,6 @@
 [submodule "fh-architecture"]
 	path = fh-architecture
 	url = https://github.com/FlorianMold/fh-architecture
+[submodule "kafka-playground"]
+	path = kafka-playground
+	url = https://github.com/FlorianMold/kafka-playground
