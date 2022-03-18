@@ -1,3 +1,3 @@
 # FH
 
-All submobules in this repository are a subject in fh.
+All submobules in this repository are projects done in fh.
