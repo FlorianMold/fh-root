@@ -13,6 +13,3 @@
 [submodule "kafka-playground"]
 	path = kafka-playground
 	url = https://github.com/FlorianMold/kafka-playground
-[submodule "claudia-playground"]
-	path = claudia-playground
-	url = https://github.com/FlorianMold/claudia-playground
