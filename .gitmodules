@@ -1,9 +1,9 @@
 [submodule "fh-software-testing"]
 	path = fh-software-testing
-	url = https://github.com/FlorianMold/fh-software-testing
+	url = git@github.com:FlorianMold/fh-software-testing.git
 [submodule "fh-fp"]
 	path = fh-fp
-	url = https://github.com/FlorianMold/fh-fp
+	url = git@github.com:FlorianMold/fh-fp.git
 [submodule "fh-ppr"]
 	path = fh-ppr
 	url = git@github.com:FlorianMold/fh-ppr.git
