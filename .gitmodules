@@ -10,3 +10,6 @@
 [submodule "fh-ppr"]
 	path = fh-ppr
 	url = git@github.com:FlorianMold/fh-ppr.git
+[submodule "fh-swe"]
+	path = fh-swe
+	url = git@github.com:FlorianMold/fh-swe.git
