@@ -17,3 +17,4 @@
 [submodule "fh-sfr"]
 	path = fh-sfr
 	url = git@github.com:FlorianMold/fh-sfr.git
+	branch = main
