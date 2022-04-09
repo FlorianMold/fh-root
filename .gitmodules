@@ -14,3 +14,6 @@
 	path = fh-swe
 	url = git@github.com:FlorianMold/fh-swe.git
 	branch = main
+[submodule "fh-sfr"]
+	path = fh-sfr
+	url = git@github.com:FlorianMold/fh-sfr.git
