@@ -21,3 +21,4 @@
 [submodule "fh-data-science"]
 	path = fh-data-science
 	url = git@github.com:FlorianMold/fh-data-science.git
+	branch = main
