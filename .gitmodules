@@ -22,3 +22,6 @@
 	path = fh-data-science
 	url = git@github.com:FlorianMold/fh-data-science.git
 	branch = main
+[submodule "fh-hpc"]
+	path = fh-hpc
+	url = git@github.com:FlorianMold/fh-hpc.git
