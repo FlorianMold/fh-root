@@ -25,3 +25,6 @@
 [submodule "fh-hpc"]
 	path = fh-hpc
 	url = git@github.com:FlorianMold/fh-hpc.git
+[submodule "fh-machine-learning"]
+	path = fh-machine-learning
+	url = git@github.com:FlorianMold/fh-machine-learning.git
